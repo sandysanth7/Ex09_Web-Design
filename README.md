@@ -53,7 +53,8 @@
  ```
 
 ## OUTPUT
-![Uploading sandyagri.png…]()
+![sandyagri](https://github.com/sandysanth7/Ex09_Web-Design/assets/127816678/71c8c0de-6e92-4018-a784-b0576f70cf88)
+
 
 
 ## RESULT
